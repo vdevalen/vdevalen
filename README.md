@@ -3,7 +3,7 @@
 - 💻 Front-ed | Software Developer | Trainee
 - 👩‍💻 I am currently working at Sistecredito
 - ⚡ I am currently learning new technologies
-- 📫 How to contact me: valenpinzonn@gmail.com
+- 📫 How to contact me: v.dev.valen@gmail.com
 
 <div align="center">
   <a href="https://github.com/vdevalen">
