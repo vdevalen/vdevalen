@@ -1,6 +1,6 @@
 ## 👋 Hi, i'm Valentina Pinzon Montoya!
 
-- 💻 Front-ed | Software Developer | Trainee
+- 💻 Front-end | Software Developer | Trainee
 - 👩‍💻 I am currently working at Sistecredito
 - ⚡ I am currently learning new technologies
 - 📫 How to contact me: v.dev.valen@gmail.com
