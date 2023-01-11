@@ -19,10 +19,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   <br>
- <div>
-	<img src="https://activity-graph.herokuapp.com/graph?username=vdevalen&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=fffpoint=FE0000&line=2895BC&theme=react-dark" alt="Recently contributions graph">
-	<br>
-</div>
+
 <br>
  
 <div align="center">
