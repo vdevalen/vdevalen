@@ -15,13 +15,7 @@
      <img align="center" alt="CSS" height="40" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">  
   
 </div>
-  
-  <div align="center">
-  <a href="https://github.com/vdevalen">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vdevalen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdevalen&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
+ 
   <br>
 
 <br>
