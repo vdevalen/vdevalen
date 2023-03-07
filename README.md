@@ -16,8 +16,6 @@
      <img align="center" alt="CSS" height="40" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">  
   
 </div>
-  
-  
   <br>
 
 <br>
