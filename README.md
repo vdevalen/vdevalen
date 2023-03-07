@@ -6,7 +6,11 @@
 - 📫 How to contact me: v.dev.valen@gmail.com
 <br>
 
-
+<div align="center">
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vdevalen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vdevalen&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+<br>
 <div style="display: inline_block"><br> <div align="center">
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
    <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
