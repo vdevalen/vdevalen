@@ -1,7 +1,7 @@
 
 ## 👋 Hi, i'm Valentina Pinzon Montoya!
 
-- 💻 Front-end | Software Developer | Trainee
+- 💻 Software Developer 
 - ⚡ I am currently learning new technologies
 - 📫 How to contact me: v.dev.valen@gmail.com
 <br>
