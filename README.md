@@ -88,23 +88,13 @@ $ cat interests.txt
 </div>
 
 ---
-
 <div align="center">
 
 ## 📊 github stats
 
 <br/>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=vdevalen&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f472b6&text_color=9896b8&include_all_commits=true&count_private=true"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdevalen&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=9896b8&langs_count=7"/>
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdevalen&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=9896b8&langs_count=10&hide=html,css"/>
 
 </div>
 
